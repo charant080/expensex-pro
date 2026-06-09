@@ -1,16 +1,55 @@
-# React + Vite
+# ExpenseX Pro – AI Powered Smart Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ExpenseX Pro is a modern AI-powered finance dashboard built using React.js, Vite, CSS, Recharts, and LocalStorage.
 
-Currently, two official plugins are available:
+It helps users manage income, expenses, savings goals, analytics, and smart spending insights through a premium dashboard UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 https://brilliant-crumble-fe6108.netlify.app
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Secure Login System
+- Financial Dashboard
+- Monthly Salary Management
+- Additional Income Tracking
+- Saving Goal Tracking
+- Add/Delete Expenses
+- Category-Based Expense Tracking
+- Expense Analytics Pie Chart
+- Search & Filter Expenses
+- AI-Based Spending Suggestions
+- LocalStorage Data Persistence
+- Responsive Design
+- Premium Glassmorphism UI
+- Modern Dashboard Layout
+
+---
+
+## Technologies Used
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Recharts
+
+### Tools
+- Vite
+- VS Code
+- GitHub
+- Netlify
+
+---
+
+## Login Credentials
+
+```text
+Username: charant080
+Password: charan123
